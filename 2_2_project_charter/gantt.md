@@ -52,6 +52,6 @@ gantt
 
     section Soporte técnico
 
-    Garantía de calidad : m11, after m9, 2017-08-04
+    Soporte y mantenimiento : m11, after m9, 2017-08-04
 
 ```
